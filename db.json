@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "smith",
+      "gender": "male",
+      "age": 35,
+      "email": "gmail@gmail.com",
+      "password": "qwerty",
+      "id": "462d066d-d1a0-474d-a99c-d7a5e67ec86f"
+    },
+    {
+      "firstName": "Tony",
+      "lastName": "Robinson",
+      "gender": "male",
+      "age": 34,
+      "email": "sample@gmail.com",
+      "password": "qwerty",
+      "id": "362d066d-d1a0-474d-a99c-d7a5e67ec86f"
+    },
+    {
+      "id": "edd961a1-6c8b-4fc0-a99e-a41d40c6b404",
+      "firstName": "Tony",
+      "lastName": "Montana",
+      "gender": "Male",
+      "age": "10",
+      "email": "sample@gmail.com",
+      "password": "q"
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Smith",
+      "gender": "female",
+      "age": 35,
+      "email": "gmail@gmail.com",
+      "password": "qwerty",
+      "id": 4
+    }
+  ]
+}
