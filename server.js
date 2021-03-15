@@ -7,6 +7,6 @@ server.use(middlewares)
 server.use(jsonServer.bodyParser)
 
 server.use(router)
-server.listen(3000, () => {
-  console.log('JSON Server is running')
+server.listen(process.env.PORT || 3000, ()=>{
+  console.log(`app is running on port ${process.env.PORT}`)
 })

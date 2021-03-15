@@ -2,7 +2,7 @@
   "users": [
     {
       "firstName": "John",
-      "lastName": "smith",
+      "lastName": "Smith",
       "gender": "male",
       "age": 35,
       "email": "gmail@gmail.com",
